@@ -1,7 +1,11 @@
-[README.md](https://github.com/user-attachments/files/26449380/README.md)
+[README.md](https://github.com/user-attachments/files/26449410/README.md)
 # syds-studio
 
 `syds-studio` is an AI-powered Slack bot for marketing and design requests. It helps teammates find existing materials in Google Drive, and if something does not exist yet, it turns the request into a structured creative brief and sends it to `#syds-studio-requests`.
+
+## Demo
+
+[Watch the Loom walkthrough](https://www.loom.com/share/fd2144eddfd1425da5f6e4ff50014b87)
 
 ## What It Does
 
